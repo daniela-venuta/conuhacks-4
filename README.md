@@ -1,4 +1,9 @@
-# conuhacks-4
+# ConUHacks IV
 
-Created a small platformer/Flappy bird cross game called BOX-E in less than 24h
+Box-E is a short interactive game geared towards helping a small,  adventurous robot get his claws on magical items. The user is tasked with collecting various crystal gears while simultaneously avoiding dangerous obstacles.à
+
+It is a small platformer game inspired by the Flappy Bird concept.
+
+>This game was created in less than 24h. 
+
 Team: Minh-Tam Do, Tiffany Chenn, Emilie Martin and Daniela Venuta
